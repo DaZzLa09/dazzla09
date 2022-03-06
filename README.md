@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m interested in Azure Landing Zone Concepts, CAF, Terraform, Automation
+- 🌱 I’m currently learning for AZ-305
+
 <!--
 **DaZzLa09/dazzla09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
